@@ -1,0 +1,107 @@
+# News about Trade_Regulations for th
+
+## US Export Control Efforts: A Call for Action and Change
+Source: Devdiscourse | Published: 2024-12-19T02:59:03Z
+
+A Senate subcommittee has criticized the Commerce Department's insufficient resources to enforce export controls on American chips, vital to US national security. The report shows that ongoing violations allow China and Russia to acquire advanced technology, urging increased funding and stricter enforcement measures.
+
+The Senate's Permanent Subcommittee on Investigations has flagged the Commerce Department's attempts to limit China and Russia's access to US-made advanced computer chips as inadequate. This comes amid rising concerns over their capability to produce... [658 chars]
+
+URL: https://www.devdiscourse.com/article/law-order/3199900-us-export-control-efforts-a-call-for-action-and-change
+
+---
+
+## China to Amend Drone Export Controls Amid Global Scrutiny
+Source: Devdiscourse | Published: 2024-07-31T14:29:32Z
+
+China will update its drone export controls starting Sept. 1, including adding high-precision measurement equipment to the control list. The move is in response to increased scrutiny from the U.S. and its allies, which accused Beijing of supporting Russia. China's commerce ministry says the adjustments aim to safeguard national security and the global supply chain.
+
+China will amend drone export controls from Sept. 1, including adding high-precision measurement equipment to the control list and adjusting standards for certain unmanned aircraft components.
+The move comes amid intensified scrutiny from the U.S. an... [2484 chars]
+
+URL: https://www.devdiscourse.com/article/law-order/3037241-china-to-amend-drone-export-controls-amid-global-scrutiny
+
+---
+
+## US to reduce licensing by 80% for UK, Australia to boost AUKUS
+Source: Devdiscourse | Published: 2024-04-18T15:11:33Z
+
+The streamlined controls will reduce licensing requirements for exports to Australia and the UK by 80%, or more than $7.5 billion annually, BIS said. "This is a major change," Kevin Wolf, a Washington-based trade lawyer and former Commerce official, said of the new rules.
+"It eliminates almost all Commerce export controls on the UK and Australia."
+
+The U.S. Commerce Department is scaling back export control requirements for Australia and the United Kingdom to foster defense trade under the three countries' AUKUS security pact, reducing licensing burdens for trade valued at more than $7.5 billio... [1023 chars]
+
+URL: https://www.devdiscourse.com/article/law-order/2901373-us-to-reduce-licensing-by-80-for-uk-australia-to-boost-aukus
+
+---
+
+## U.S. government plans review of space technology export controls
+Source: SpaceNews | Published: 2024-04-10T16:24:56Z
+
+The State and Commerce Departments will start a process this summer to update space systems on export control lists, potentially lessening restrictions.
+
+COLORADO SPRINGS — The State and Commerce Departments will start a process this summer to update space systems on export control lists, potentially lessening the restrictions on some technologies.
+Speaking at the 39th Space Symposium April 9, Chirag ... [3062 chars]
+
+URL: https://spacenews.com/u-s-government-plans-review-of-space-technology-export-controls/
+
+---
+
+## WTO talks run deep into overtime with no breakthrough in sight
+Source: Firstpost | Published: 2024-03-01T08:21:51Z
+
+The biennial meeting aims to update international trade regulations on a number of issues, such as reducing fisheries subsidies and prolonging the ban on digital trade tariffs, which is opposed by South Africa and India but has strong backing from industry and government
+
+The biennial meeting aims to update international trade regulations on a number of issues, such as reducing fisheries subsidies and prolonging the ban on digital trade tariffs, which is opposed by South Africa and India but has strong backing from in... [2784 chars]
+
+URL: https://www.firstpost.com/world/wto-talks-run-deep-into-overtime-with-no-breakthrough-in-sight-13743973.html
+
+---
+
+## China says US moves to limit access to advanced computer chips hurt supply chains, cause huge losses
+Source: The Associated Press | Published: 2023-10-18T11:45:58Z
+
+Beijing has vigorously protested the U.S. Commerce Department's latest update of export controls to prevent exports to China of advanced computer chips and the equipment to make them.
+
+BEIJING (AP) — China vigorously protested Wednesday the U.S. Commerce Department’s latest update of export controls to prevent exports to China of advanced computer chips and the equipment to make them.
+The revisions to the U.S. rules were announced ... [3025 chars]
+
+URL: https://apnews.com/article/china-us-computer-chips-ai-semiconductor-d9dfe57f09cbec937985d8d0af6d4e33
+
+---
+
+## China says US moves to limit access to advanced computer chips hurt supply chains, cause huge losses
+Source: WDIV ClickOnDetroit | Published: 2023-10-18T07:45:56Z
+
+Beijing has vigorously protested the U.S. Commerce Department's latest update of export controls to prevent exports to China of advanced computer chips and the equipment to make them.
+
+FILE - Commerce Secretary Gina Raimondo testifies during a Senate Commerce, Science, and Transportation hearing Oct. 4, 2023, on Capitol Hill in Washington. The Commerce Department on Oct. 17 updated and broadened its export controls to stop China fr... [3377 chars]
+
+URL: https://www.clickondetroit.com/business/2023/10/18/china-says-us-moves-to-limit-access-to-advanced-computer-chips-hurt-supply-chains-cause-huge-losses/
+
+---
+
+## China says US moves to limit access to advanced computer chips hurt supply chains, cause huge losses
+Source: The Boston Globe | Published: 2023-10-18T04:00:00Z
+
+Beijing has vigorously protested the US Commerce Department’s latest update of export controls to prevent exports to China of advanced computer chips and the equipment to make them.
+
+China’s Commerce Ministry said the controls were “improper” and urged that Washington lift them as soon as possible.
+The revisions to the U.S. rules were announced Tuesday, roughly a year after the export controls were first launched to counter the u... [3220 chars]
+
+URL: https://www.bostonglobe.com/2023/10/18/business/china-says-us-moves-limit-access-advanced-computer-chips-hurt-supply-chains-cause-huge-losses/
+
+---
+
+## U.S. warned China to expect updated export curbs in October: Reuters
+Source: CNBC | Published: 2023-10-03T08:14:25Z
+
+The Commerce Department, which oversees export controls, is working on an update of export restrictions first released last year.
+
+U.S. President Joe Biden makes a statement to the news media ahead of a cabinet meeting at the White House in Washington, U.S.
+The Biden administration warned Beijing of its plans to update rules that curb shipments of AI chips and chipmaking tools t... [1460 chars]
+
+URL: https://www.cnbc.com/2023/10/03/us-warned-china-to-expect-updated-export-curbs-in-october-reuters.html
+
+---
+
